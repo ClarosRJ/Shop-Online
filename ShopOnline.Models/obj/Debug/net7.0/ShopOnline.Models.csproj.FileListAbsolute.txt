@@ -1,0 +1,12 @@
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.deps.json
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.dll
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\bin\Debug\net7.0\ShopOnline.Models.pdb
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.csproj.AssemblyReference.cache
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.AssemblyInfoInputs.cache
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.AssemblyInfo.cs
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.csproj.CoreCompileInputs.cache
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.dll
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\refint\ShopOnline.Models.dll
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ShopOnline.Models.pdb
+C:\Users\windo\Desktop\Cursos\Youtube\ShopOnlineSol\ShopOnline.Models\obj\Debug\net7.0\ref\ShopOnline.Models.dll

@@ -1,0 +1,2 @@
+﻿Proyecto de blazor web assembly app 
+link del curso realizado: https://www.youtube.com/watch?v=sHuuo9L3e5c&ab_channel=freeCodeCamp.org
